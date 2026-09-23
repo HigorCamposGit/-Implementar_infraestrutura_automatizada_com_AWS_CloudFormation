@@ -41,9 +41,8 @@ Durante o laboratório, o processo seguiu esta estrutura básica:
 
 ---
 
-## 📸 Evidência do Projeto
+## 📸 Print do Projeto
 
-### STATUS DA STACK CRIADA COM SUCESSO:
 ![Status da Stack no CloudFormation](./stack-sucesso.png)
 
 ---
@@ -59,7 +58,6 @@ Durante o laboratório, o processo seguiu esta estrutura básica:
 ## 📂 Estrutura do Repositório
 
 - `README.md`: Este documento com anotações e explicações.
-- `/images`: Pasta contendo os prints das telas da AWS.
 
 ---
 
