@@ -53,5 +53,8 @@ Durante o laboratório, o processo seguiu esta estrutura básica:
 
 - `README.md`: Este documento com anotações e explicações.
 ---
+🌐 Conecte-se comigo
 
+- **GitHub:** [HigorCamposGit](https://github.com/HigorCamposGit)
+---
 *Projeto desenvolvido para fins de estudo no curso da **Formação AWS Cloud Foundations** da DIO.*
