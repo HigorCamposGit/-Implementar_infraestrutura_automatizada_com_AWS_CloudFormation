@@ -44,10 +44,7 @@ Durante o laboratório, o processo seguiu esta estrutura básica:
 ## 📸 Evidência do Projeto
 
 ### STATUS DA STACK CRIADA COM SUCESSO:
-<!-- SE VOCÊ TIVER UMA PASTA IMAGES, USE A LINHA ABAIXO SUBSTITUINDO O NOME DA FOTO: -->
-![Status da Stack no CloudFormation](./images/stack-sucesso.png)
-
-*(Caso não tenha criado a pasta /images, basta arrastar a imagem diretamente para este arquivo durante a edição no GitHub)*
+![Status da Stack no CloudFormation](.stack-sucesso.jpg)
 
 ---
 
