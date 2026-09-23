@@ -44,7 +44,7 @@ Durante o laboratório, o processo seguiu esta estrutura básica:
 ## 📸 Evidência do Projeto
 
 ### STATUS DA STACK CRIADA COM SUCESSO:
-![Status da Stack no CloudFormation](.stack-sucesso.jpg)
+![Status da Stack no CloudFormation](.stack-sucesso.png)
 
 ---
 
